@@ -1,0 +1,8 @@
+include LICENSE README.md CONTRIBUTING.md CHANGELOG.md VALIDATION.md
+recursive-include src/nzgrocery/stores *.json
+recursive-include tests *.py *.json
+prune .venv
+prune .claude
+prune .agents
+prune .workbuddy
+global-exclude __pycache__ *.py[cod]

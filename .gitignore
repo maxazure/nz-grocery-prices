@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environments and secrets
+.venv/
+venv/
+.env
+.env.*
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local databases, cookies, and logs
+*.sqlite
+*.sqlite3
+*.db
+data/
+logs/
+*.log
+cookies
+cookies/
+
+# Price files written into the repo root.
+# Keep src/nzgrocery/stores/*.json and tests/fixtures/*.json.
+/*.csv
+/*.json
+/*.jsonl
+
+# Local personal instructions
+AGENTS.md
+.DS_Store

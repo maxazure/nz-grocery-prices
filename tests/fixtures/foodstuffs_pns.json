@@ -1,0 +1,54 @@
+{
+  "stores": [
+    {
+      "id": "65defcf2-bc15-490e-a84f-1f13b769cd22",
+      "name": "PAK'nSAVE Albany",
+      "address": "Don McKinnon Drive, Albany, Auckland, 0632",
+      "latitude": -36.729975,
+      "longitude": 174.706725,
+      "clickAndCollect": true,
+      "delivery": false,
+      "onlineActive": true,
+      "physicalAddress": {
+        "streetName": "Don McKinnon Drive",
+        "cityName": "Auckland",
+        "regionName": "Auckland",
+        "postalCode": "0632",
+        "additionalCityName": "Albany"
+      }
+    },
+    {
+      "id": "002b83de-b79d-4228-a787-bd0765b6cb56",
+      "name": "PAKnSAVE Wairau Road",
+      "address": "30 Wairau Road, Wairau Valley, Auckland, 0627",
+      "latitude": -36.778705,
+      "longitude": 174.744295,
+      "clickAndCollect": true,
+      "delivery": false,
+      "onlineActive": true,
+      "physicalAddress": {
+        "streetName": "30 Wairau Road",
+        "cityName": "Auckland",
+        "regionName": "Auckland",
+        "postalCode": "0627",
+        "additionalCityName": "Wairau Valley"
+      }
+    },
+    {
+      "id": "50b1216b-d066-4457-b88b-9bccf97bf6d3",
+      "name": "PAK'nSAVE Whakatane",
+      "address": "45 King Street, Whakatane, 3120",
+      "latitude": -37.961198,
+      "longitude": 176.98257,
+      "clickAndCollect": true,
+      "delivery": false,
+      "onlineActive": true,
+      "physicalAddress": {
+        "streetName": "45 King Street",
+        "cityName": "Whakatane",
+        "regionName": "Bay of Plenty",
+        "postalCode": "3120"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3736 @@
+{
+  "generated_at": "2026-10-12T11:42:43+13:00",
+  "coverage": "NZ",
+  "counts": {
+    "paknsave": 58,
+    "newworld": 149
+  },
+  "stores": [
+    {
+      "chain": "paknsave",
+      "id": "65defcf2-bc15-490e-a84f-1f13b769cd22",
+      "name": "PAK'nSAVE Albany",
+      "address": "Don McKinnon Drive, Albany, Auckland, 0632",
+      "suburb": "Albany",
+      "region": "Auckland",
+      "postcode": "0632",
+      "latitude": -36.729975,
+      "longitude": 174.706725,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "6c73764e-b8e6-4e55-ad37-f6a9d207da1f",
+      "name": "PAK'nSAVE Alderman Dr Henderson",
+      "address": "8-18 Alderman Drive, Henderson, Auckland, 0612",
+      "suburb": "Henderson",
+      "region": "Auckland",
+      "postcode": "0612",
+      "latitude": -36.87743,
+      "longitude": 174.63292,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "c3f9e1a3-fc34-452d-af2e-95349e666ba4",
+      "name": "PAK'nSAVE Blenheim",
+      "address": "1 Westwood Avenue, Springlands, Blenheim, 7271",
+      "suburb": "Blenheim",
+      "region": "Marlborough",
+      "postcode": "7271",
+      "latitude": -41.5087,
+      "longitude": 173.9234,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Blenheim",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "60561e46-ece7-43a7-b142-9b14812586e4",
+      "name": "PAK'nSAVE Botany",
+      "address": "501 Ti Rakau Drive, Northpark, Auckland, 2013",
+      "suburb": "Northpark",
+      "region": "Auckland",
+      "postcode": "2013",
+      "latitude": -36.930652,
+      "longitude": 174.913004,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "714431ab-6e39-4df6-ac77-cfc5c1e25bc8",
+      "name": "PAK'nSAVE Cameron Road",
+      "address": "476 Cameron Road, Tauranga, 3110",
+      "suburb": "Tauranga",
+      "region": "Bay of Plenty",
+      "postcode": "3110",
+      "latitude": -37.696716,
+      "longitude": 176.161533,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Tauranga",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "d6d39eea-889d-4e20-923c-55cab225cf7f",
+      "name": "PAK'nSAVE Clarence Street",
+      "address": "85 Clarence Street, Hamilton Lake, Hamilton, 3204",
+      "suburb": "Hamilton Lake",
+      "region": "Waikato",
+      "postcode": "3204",
+      "latitude": -37.795653,
+      "longitude": 175.282839,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Hamilton",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "3e82142c-78dc-46f3-82ec-28e65fcf84c9",
+      "name": "PAK'nSAVE Clendon",
+      "address": "16 Robert Ross Place, Clendon Park, Auckland, 2103",
+      "suburb": "Clendon Park",
+      "region": "Auckland",
+      "postcode": "2103",
+      "latitude": -37.03242,
+      "longitude": 174.867278,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "90082979-fb9f-4305-9c72-83274fc438cc",
+      "name": "PAK'nSAVE Dunedin",
+      "address": "86 Hillside Road, South Dunedin, Dunedin, 9012",
+      "suburb": "Dunedin",
+      "region": "Otago",
+      "postcode": "9012",
+      "latitude": -45.8927,
+      "longitude": 170.4992,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Dunedin",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "3404c253-577f-45ca-b301-c98312e46efb",
+      "name": "PAK'nSAVE Glen Innes",
+      "address": "182 Apirana Avenue, Glen Innes, Auckland, 1072",
+      "suburb": "Glen Innes",
+      "region": "Auckland",
+      "postcode": "1072",
+      "latitude": -36.875918,
+      "longitude": 174.855148,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "b39562a4-2b72-43fe-b9ba-eda1d651ad0b",
+      "name": "PAK'nSAVE Hastings",
+      "address": "602 Heretaunga Street West, West End Shopping Centre, Hastings, 4120",
+      "suburb": "West End Shopping Centre",
+      "region": "Hawkes Bay",
+      "postcode": "4120",
+      "latitude": -39.636804,
+      "longitude": 176.836635,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Hastings",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "15e6f441-5c1c-4d25-b4ec-1adf918c49c7",
+      "name": "PAK'nSAVE Hawera",
+      "address": "54 Princes Street, Hawera, 4610",
+      "suburb": "Hawera",
+      "region": "Taranaki",
+      "postcode": "4610",
+      "latitude": -39.590947,
+      "longitude": 174.283801,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Hawera",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "2a1b331a-fc4a-496a-b072-e97cc8f70cae",
+      "name": "PAK'nSAVE Highland Park",
+      "address": "503 - 505 Pakuranga Road, Highland Park, 2010",
+      "suburb": "Highland Park",
+      "region": "Auckland",
+      "postcode": "2010",
+      "latitude": -36.8988953,
+      "longitude": 174.9047405,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Highland Park",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "be4c4780-218e-425a-a90f-63e21773572b",
+      "name": "PAK'nSAVE Hornby",
+      "address": "418 Main South Road, Hornby, Christchurch, 8042",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8042",
+      "latitude": -43.543,
+      "longitude": 172.5232,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "d8032da3-c1b9-456e-b626-41ce21f8c67b",
+      "name": "PAK'nSAVE Invercargill",
+      "address": "95 Tay Street, Invercargill, Invercargill, 9810",
+      "suburb": "Invercargill",
+      "region": "Southland",
+      "postcode": "9810",
+      "latitude": -46.4143,
+      "longitude": 168.353,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Invercargill",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "3c5e3145-0767-4066-9349-6c0a1313acc5",
+      "name": "PAK'nSAVE Kaitaia",
+      "address": "111 North Road, Kaitaia, 0410",
+      "suburb": "Kaitaia",
+      "region": "Northland",
+      "postcode": "0410",
+      "latitude": -35.09945,
+      "longitude": 173.258322,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Kaitaia",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "c180a72d-5dbe-4403-b7c7-91655e505492",
+      "name": "PAK'nSAVE Kapiti",
+      "address": "76 Rimu Road, Paraparaumu, 5032",
+      "suburb": "Paraparaumu",
+      "region": "Wellington",
+      "postcode": "5032",
+      "latitude": -40.9180863,
+      "longitude": 175.0017611,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Paraparaumu",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "21ecaaed-0749-4492-985e-4bb7ba43d59c",
+      "name": "PAK'nSAVE Kilbirnie",
+      "address": "76 Rongotai Road, Kilbirnie, Wellington, 6003",
+      "suburb": "Kilbirnie",
+      "region": "Wellington",
+      "postcode": "6003",
+      "latitude": -41.319324,
+      "longitude": 174.79672,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "92086ded-a55d-4241-a364-7d7ea91531b4",
+      "name": "PAK'nSAVE Lincoln Road",
+      "address": "202 Lincoln Road, Henderson, Auckland, 0610",
+      "suburb": "Henderson",
+      "region": "Auckland",
+      "postcode": "0610",
+      "latitude": -36.857794,
+      "longitude": 174.627968,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "b83029b6-5dd5-449e-8056-26f3943a4e18",
+      "name": "PAK'nSAVE Lower Hutt",
+      "address": "20 Brunswick Street, Hutt Central, Lower Hutt, 5010",
+      "suburb": "Hutt Central",
+      "region": "Wellington",
+      "postcode": "5010",
+      "latitude": -41.205578,
+      "longitude": 174.913149,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Lower Hutt",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "94ef1985-cab1-4b39-a2f3-230120f03c16",
+      "name": "PAK'nSAVE Mangere",
+      "address": "44 Orly Avenue, Mangere, Auckland, 2022",
+      "suburb": "Mangere",
+      "region": "Auckland",
+      "postcode": "2022",
+      "latitude": -36.968516,
+      "longitude": 174.796863,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+      "name": "PAK'nSAVE Manukau",
+      "address": "6 Cavendish Drive, Manukau City, Auckland, 2104",
+      "suburb": "Manukau City",
+      "region": "Auckland",
+      "postcode": "2104",
+      "latitude": -36.987929,
+      "longitude": 174.880604,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "d1cd1fdd-8767-46a6-a8d3-c3e0632c2dc8",
+      "name": "PAK'nSAVE Masterton",
+      "address": "424 Queen Street, Kuripuni, Masterton, 5810",
+      "suburb": "Kuripuni",
+      "region": "Manawatu-Wanganui",
+      "postcode": "5810",
+      "latitude": -40.957214,
+      "longitude": 175.649687,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Masterton",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "076e8177-943b-41fc-a885-ba3d28297acf",
+      "name": "PAK'nSAVE Mill Street",
+      "address": "17 Mill Street, Whitiora, Hamilton, 3200",
+      "suburb": "Whitiora",
+      "region": "Waikato",
+      "postcode": "3200",
+      "latitude": -37.7799,
+      "longitude": 175.27281,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Hamilton",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "61dd754e-8525-4b9e-9e08-173389eea8a8",
+      "name": "PAK'nSAVE Moorhouse",
+      "address": "297 Moorhouse Avenue, Sydenham, Christchurch, 8011",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8011",
+      "latitude": -43.5392,
+      "longitude": 172.6383,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+      "name": "PAK'nSAVE Mt Albert",
+      "address": "1167-1177 New North Road, Auckland, 1025",
+      "suburb": "Auckland",
+      "region": "Auckland",
+      "postcode": "1025",
+      "latitude": -36.89305,
+      "longitude": 174.70624,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "49037947-e450-49bf-ba1f-a94551c79a72",
+      "name": "PAK'nSAVE Napier City",
+      "address": "25 Munroe Street, Napier South, Napier South NAPIER, 4110",
+      "suburb": "Napier South",
+      "region": "Hawkes Bay",
+      "postcode": "4110",
+      "latitude": -39.494788,
+      "longitude": 176.913562,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Napier South NAPIER",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "53989945-1a28-481d-a61c-d6f75f760ada",
+      "name": "PAK'nSAVE New Plymouth",
+      "address": "53 Leach Street, New Plymouth, 4310",
+      "suburb": "New Plymouth",
+      "region": "Taranaki",
+      "postcode": "4310",
+      "latitude": -39.05712,
+      "longitude": 174.08127,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "New Plymouth",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "5f167936-79ae-4f6a-b9d2-74afe1bb096b",
+      "name": "PAK'nSAVE Ormiston",
+      "address": "1 Bellingham Road, Flat Bush, Auckland, 2019",
+      "suburb": "Flat Bush",
+      "region": "Auckland",
+      "postcode": "2019",
+      "latitude": -36.965078,
+      "longitude": 174.914819,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "48dd98cc-a757-4102-b15d-ea82b4b10571",
+      "name": "PAK'nSAVE Palmerston North",
+      "address": "327 Ferguson Street, Palmerston North, 4410",
+      "suburb": "Palmerston North",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4410",
+      "latitude": -40.359198,
+      "longitude": 175.611537,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Palmerston North",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "a7d09522-bee2-41e4-8fe0-0b82b7f342f5",
+      "name": "PAK'nSAVE Papakura",
+      "address": "331-345 Great South Road, Takanini, Auckland, 2110",
+      "suburb": "Takanini",
+      "region": "Auckland",
+      "postcode": "2110",
+      "latitude": -37.053393,
+      "longitude": 174.93096,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "3bfe040b-f0c9-45e0-949b-b9ad5a591d55",
+      "name": "PAK'nSAVE Papamoa",
+      "address": "42 Domain Road, Papamoa Beach, Papamoa, 3118",
+      "suburb": "Papamoa Beach",
+      "region": "Bay of Plenty",
+      "postcode": "3118",
+      "latitude": -37.70191,
+      "longitude": 176.283687,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Papamoa",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "8cd700ae-d96f-4761-bd7a-805d6b93536d",
+      "name": "PAK'nSAVE Papanui",
+      "address": "171 Main North Road, Redwood, Christchurch, 8051",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8051",
+      "latitude": -43.48557,
+      "longitude": 172.61472,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "98ec3885-ac93-4fcb-807b-59c9055c52c4",
+      "name": "PAK'nSAVE Petone",
+      "address": "114-124 Jackson Street, Petone, Wellington, 5012",
+      "suburb": "Petone",
+      "region": "Wellington",
+      "postcode": "5012",
+      "latitude": -41.224456,
+      "longitude": 174.872537,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "af385423-d0f1-41f0-9482-ffd10b745143",
+      "name": "PAK'nSAVE Porirua",
+      "address": "12 Parumoana Street, Porirua City Centre, Porirua, 5022",
+      "suburb": "Porirua City Centre",
+      "region": "Wellington",
+      "postcode": "5022",
+      "latitude": -41.131559,
+      "longitude": 174.841818,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Porirua",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "c2204dae-579e-4b6b-9d42-2e13ceaa6031",
+      "name": "PAK'nSAVE Pukekohe",
+      "address": "99 Queen Street, Pukekohe, 2120",
+      "suburb": "Pukekohe",
+      "region": "Auckland",
+      "postcode": "2120",
+      "latitude": -37.205157,
+      "longitude": 174.899612,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Pukekohe",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "2ed73be8-936d-4f35-9398-75a707f40a7b",
+      "name": "PAK'nSAVE Queenstown",
+      "address": "302 Hawthorne Drive, Frankton, Queenstown, 9300",
+      "suburb": "Queenstown",
+      "region": "Otago",
+      "postcode": "9300",
+      "latitude": -45.0108,
+      "longitude": 168.7492,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Queenstown",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "715f0e22-95e0-45ce-af3a-07057209976e",
+      "name": "PAK'nSAVE Rangiora",
+      "address": "2 Southbrook Road, Waimakariri, Rangiora, 7400",
+      "suburb": "Rangiora",
+      "region": "Canterbury",
+      "postcode": "7400",
+      "latitude": -43.3248,
+      "longitude": 172.5999,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Rangiora",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "4a279605-eaa8-470d-bcd4-0a9e3c9ab43b",
+      "name": "PAK'nSAVE Riccarton",
+      "address": "129 Riccarton Road, Riccarton, Christchurch, 8041",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8041",
+      "latitude": -43.5312,
+      "longitude": 172.5963,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "5cf0392f-c187-4fc4-a463-eb269d2e8f45",
+      "name": "PAK'nSAVE Richmond",
+      "address": "Croucher and Talbot Streeet, Richmond, Nelson, 7020",
+      "suburb": "Nelson",
+      "region": "Nelson",
+      "postcode": "7020",
+      "latitude": -41.3386,
+      "longitude": 173.1866,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Nelson",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "bdc5ef4a-c6a7-4f8a-b8cb-28109e6d61c3",
+      "name": "PAK'nSAVE Rolleston",
+      "address": "157 Levi Road, Rolleston, Rolleston, 7614",
+      "suburb": "Rolleston",
+      "region": "Canterbury",
+      "postcode": "7614",
+      "latitude": -43.59731231,
+      "longitude": 172.39645748,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Rolleston",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "7d48a781-4f68-4c91-a908-8659e1b22f95",
+      "name": "PAK'nSAVE Rotorua",
+      "address": "Cnr Fenton and Amohau Streets, Rotorua, 3010",
+      "suburb": "Rotorua",
+      "region": "Bay of Plenty",
+      "postcode": "3010",
+      "latitude": -38.140495,
+      "longitude": 176.25459,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Rotorua",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+      "name": "PAK'nSAVE Royal Oak",
+      "address": "691 Manukau Road, Royal Oak, Auckland, 1023",
+      "suburb": "Royal Oak",
+      "region": "Auckland",
+      "postcode": "1023",
+      "latitude": -36.91014,
+      "longitude": 174.77342,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "64eab5b1-8d79-45f4-94f1-02b8cf8b6202",
+      "name": "PAK'nSAVE Silverdale",
+      "address": "20 Hibiscus Coast Highway, Silverdale, Auckland, 0932",
+      "suburb": "Silverdale",
+      "region": "Auckland",
+      "postcode": "0932",
+      "latitude": -36.620413,
+      "longitude": 174.672975,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "c0f80e87-16be-4488-9553-da437e8c6c2a",
+      "name": "PAK'nSAVE Sylvia Park",
+      "address": "286 Mt Wellington Highway, Mt Wellington, Auckland, 1060",
+      "suburb": "Mt Wellington",
+      "region": "Auckland",
+      "postcode": "1060",
+      "latitude": -36.913347,
+      "longitude": 174.84009,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "6cda96e1-7d29-44a6-956b-3fcfdecc8184",
+      "name": "PAK'nSAVE Tamatea",
+      "address": "Leicester Avenue, Tamatea, Napier, 4112",
+      "suburb": "Tamatea",
+      "region": "Hawkes Bay",
+      "postcode": "4112",
+      "latitude": -39.509905,
+      "longitude": 176.869414,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Napier",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "b92cc33f-b5a8-4b57-9b82-412946800020",
+      "name": "PAK'nSAVE Taupo",
+      "address": "105-131 Ruapehu Street, Taupo, 3330",
+      "suburb": "Taupo",
+      "region": "Bay of Plenty",
+      "postcode": "3330",
+      "latitude": -38.685532,
+      "longitude": 176.073247,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Taupo",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "1c388d5e-29ac-4956-b476-cb3431353d2e",
+      "name": "PAK'nSAVE Tauriko",
+      "address": "2 Taurikura Drive, Tauriko, Tauranga, 3110",
+      "suburb": "Tauriko",
+      "region": "Bay of Plenty",
+      "postcode": "3110",
+      "latitude": -37.738653,
+      "longitude": 176.103745,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Tauranga",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "3bb30799-82ce-4648-8c02-5113228963ed",
+      "name": "PAK'nSAVE Te Awamutu",
+      "address": "670 Cambridge Road, Te Awamutu, 3800",
+      "suburb": "Te Awamutu",
+      "region": "Waikato",
+      "postcode": "3800",
+      "latitude": -38.008101,
+      "longitude": 175.340102,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Te Awamutu",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "6e6809dd-01bc-45c9-aab1-f01ccd8338b0",
+      "name": "PAK'nSAVE Thames",
+      "address": "100 Mary Street, Thames, 3500",
+      "suburb": "Thames",
+      "region": "Waikato",
+      "postcode": "3500",
+      "latitude": -37.138597,
+      "longitude": 175.538994,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Thames",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "b29a98bd-749c-489c-9eef-6aa38e66a29b",
+      "name": "PAK'nSAVE Timaru",
+      "address": "Evans Street, Waimataitai, Timaru, 7910",
+      "suburb": "Timaru",
+      "region": "Canterbury",
+      "postcode": "7910",
+      "latitude": -44.383,
+      "longitude": 171.2366,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Timaru",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "4fcc1c8e-cc5e-4675-ba25-5e56b579cf69",
+      "name": "PAK'nSAVE Upper Hutt",
+      "address": "Gibbons Street, Upper Hutt, 5018",
+      "suburb": "Upper Hutt",
+      "region": "Wellington",
+      "postcode": "5018",
+      "latitude": -41.123787,
+      "longitude": 175.066601,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Upper Hutt",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "dbca5e00-f7f9-43ae-91de-031ad16f8a92",
+      "name": "PAK'nSAVE Wainoni",
+      "address": "174 Wainoni Road, Avondale, Christchurch, 8061",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8061",
+      "latitude": -43.5125,
+      "longitude": 172.6933,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "8f0d70be-5cb7-464b-99cb-8b0130671895",
+      "name": "PAK'nSAVE Warkworth",
+      "address": "12 Hudson Road, Warkworth, 0910",
+      "suburb": "Warkworth",
+      "region": "Auckland",
+      "postcode": "0910",
+      "latitude": -36.392108,
+      "longitude": 174.649519,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Warkworth",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "33d8d6fc-861a-45ff-9937-5ccdb55eaede",
+      "name": "PAK'nSAVE Westgate",
+      "address": "17-19 Fred Taylor Drive, Massey, Auckland, 0814",
+      "suburb": "Massey",
+      "region": "Auckland",
+      "postcode": "0814",
+      "latitude": -36.820257,
+      "longitude": 174.608696,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "50b1216b-d066-4457-b88b-9bccf97bf6d3",
+      "name": "PAK'nSAVE Whakatane",
+      "address": "45 King Street, Whakatane, 3120",
+      "suburb": "Whakatane",
+      "region": "Bay of Plenty",
+      "postcode": "3120",
+      "latitude": -37.961198,
+      "longitude": 176.98257,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Whakatane",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "01a114de-149c-4f5f-80a1-90cc63f69c6e",
+      "name": "PAK'nSAVE Whanganui",
+      "address": "167 Glasgow Street, Whanganui, 4500",
+      "suburb": "Whanganui",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4500",
+      "latitude": -39.92638,
+      "longitude": 175.038901,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Whanganui",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "529d66cc-60e3-432e-b8d1-efc9f2ec4919",
+      "name": "PAK'nSAVE Whangarei",
+      "address": "104 Walton Street, Whangarei, 0110",
+      "suburb": "Whangarei",
+      "region": "Northland",
+      "postcode": "0110",
+      "latitude": -35.725958,
+      "longitude": 174.32475,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Whangarei",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "paknsave",
+      "id": "002b83de-b79d-4228-a787-bd0765b6cb56",
+      "name": "PAKnSAVE Wairau Road",
+      "address": "30 Wairau Road, Wairau Valley, Auckland, 0627",
+      "suburb": "Wairau Valley",
+      "region": "Auckland",
+      "postcode": "0627",
+      "latitude": -36.778705,
+      "longitude": 174.744295,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "PNS"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "773ad0a0-024e-46c5-a94b-df1cf86d25cc",
+      "name": "New World Albany",
+      "address": "219 Don McKinnon Drive, Albany, Auckland, 0632",
+      "suburb": "Albany",
+      "region": "Auckland",
+      "postcode": "0632",
+      "latitude": -36.728207,
+      "longitude": 174.710519,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "8d098344-5474-4626-ae1c-90ed0f57306f",
+      "name": "New World Alexandra",
+      "address": "89 Centennial Avenue, Alexandra, Alexandra, 9320",
+      "suburb": "Alexandra",
+      "region": "Otago",
+      "postcode": "9320",
+      "latitude": -45.2499,
+      "longitude": 169.387,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Alexandra",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "471d0657-713c-430a-816f-2ca8448e6b35",
+      "name": "New World Aokautere",
+      "address": "194-200 Ruapehu Drive, Summerhill, Palmerston North, 4410",
+      "suburb": "Summerhill",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4410",
+      "latitude": -40.387171,
+      "longitude": 175.639157,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Palmerston North",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "30a90cf9-3547-46d1-b8b1-cc9ff4af5f88",
+      "name": "New World Ashburton",
+      "address": "75 Moore Street, Ashburton, 7700",
+      "suburb": "Ashburton",
+      "region": "Canterbury",
+      "postcode": "7700",
+      "latitude": -43.9039,
+      "longitude": 171.7439,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Ashburton",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "80bebcaf-d5a3-4ca6-a999-beab902aef55",
+      "name": "New World Balclutha",
+      "address": "9 Lanark Street, Balclutha, 9230",
+      "suburb": "Balclutha",
+      "region": "Otago",
+      "postcode": "9230",
+      "latitude": -46.2381,
+      "longitude": 169.7437,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Balclutha",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "63190876-2bd4-4562-ae34-bb5caebab4f9",
+      "name": "New World Birkenhead",
+      "address": "180 Mokoia Road, Chatswood, Auckland, 0626",
+      "suburb": "Chatswood",
+      "region": "Auckland",
+      "postcode": "0626",
+      "latitude": -36.811428,
+      "longitude": 174.711486,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b3158cd8-72b9-40e5-8c4e-abd43c1be305",
+      "name": "New World Bishopdale",
+      "address": "41 Bishopdale Court, Bishopdale, Christchurch, 8053",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8053",
+      "latitude": -43.4885,
+      "longitude": 172.5872,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "756356f9-9985-40c9-a368-bf1ea8072b0e",
+      "name": "New World Blenheim",
+      "address": "4 Freswick Street, Blenheim, Blenheim, 7201",
+      "suburb": "Blenheim",
+      "region": "Marlborough",
+      "postcode": "7201",
+      "latitude": -41.5141,
+      "longitude": 173.9613,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Blenheim",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c387ac97-5e0a-43ed-9c93-f1edccda298d",
+      "name": "New World Botany",
+      "address": "588 Chapel Road, East Tamaki, Auckland, 2013",
+      "suburb": "East Tamaki",
+      "region": "Auckland",
+      "postcode": "2013",
+      "latitude": -36.933874,
+      "longitude": 174.911485,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "8d2ceac4-9520-4b8e-82bb-7867873580da",
+      "name": "New World Broadway",
+      "address": "Broadway Avenue, Palmerston North, 4414",
+      "suburb": "Palmerston North",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4414",
+      "latitude": -40.348551,
+      "longitude": 175.623806,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Palmerston North",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "edc986dd-a28c-4fbe-899d-5680d51f584d",
+      "name": "New World Brookfield",
+      "address": "89 Bellevue Road, Otumoetai, Tauranga, 3110",
+      "suburb": "Otumoetai",
+      "region": "Bay of Plenty",
+      "postcode": "3110",
+      "latitude": -37.688946,
+      "longitude": 176.1347,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Tauranga",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "dbdfdd2a-55f7-4870-9b51-979286323647",
+      "name": "New World Browns Bay",
+      "address": "2 Inverness Road, Browns Bay, Auckland, 0630",
+      "suburb": "Browns Bay",
+      "region": "Auckland",
+      "postcode": "0630",
+      "latitude": -36.715961,
+      "longitude": 174.747287,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "4db31fed-1e21-4884-82a5-cfaa178af8ac",
+      "name": "New World Cambridge",
+      "address": "14 Anzac Street, Cambridge, 3434",
+      "suburb": "Cambridge",
+      "region": "Waikato",
+      "postcode": "3434",
+      "latitude": -37.893425,
+      "longitude": 175.472202,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Cambridge",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "1257ed9a-1790-4ad0-beae-383397043e35",
+      "name": "New World Carterton",
+      "address": "60 High Street South, -, Carterton, 5713",
+      "suburb": "-",
+      "region": "Manawatu-Wanganui",
+      "postcode": "5713",
+      "latitude": -41.026035,
+      "longitude": 175.526349,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Carterton",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "50a98f3b-ffbd-4229-84bc-bfd3c956119f",
+      "name": "New World Centre City",
+      "address": "133 Great King Street, Dunedin Central, Dunedin, 9016",
+      "suburb": "Dunedin",
+      "region": "Otago",
+      "postcode": "9016",
+      "latitude": -45.8713,
+      "longitude": 170.5083,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Dunedin",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "d4f24174-f962-4db1-9024-75495bb2dfbb",
+      "name": "New World Churton Park",
+      "address": "69 Lakewood Avenue, Churton Park, Wellington, 6037",
+      "suburb": "Churton Park",
+      "region": "Wellington",
+      "postcode": "6037",
+      "latitude": -41.203041,
+      "longitude": 174.807839,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "9829c627-42c8-4ad7-b550-f9dba9fcd44a",
+      "name": "New World Cromwell",
+      "address": "2 Murray Terrace, Cromwell, Cromwell, 9310",
+      "suburb": "Cromwell",
+      "region": "Otago",
+      "postcode": "9310",
+      "latitude": -45.0375,
+      "longitude": 169.1943,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Cromwell",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "aed206ae-c0ba-4c81-b7e9-7b420bc3616c",
+      "name": "New World Dannevirke",
+      "address": "Denmark Street, Dannevirke, 4930",
+      "suburb": "Dannevirke",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4930",
+      "latitude": -40.210911,
+      "longitude": 176.096788,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Dannevirke",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "513fc849-3dbe-4333-a148-4edee5baef67",
+      "name": "New World Devonport",
+      "address": "35 Bartley Terrace, Devonport, Auckland, 0624",
+      "suburb": "Devonport",
+      "region": "Auckland",
+      "postcode": "0624",
+      "latitude": -36.82951,
+      "longitude": 174.796193,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c1aaac72-38c0-4cc0-ad05-f241047d88c5",
+      "name": "New World Durham Street",
+      "address": "175 Durham Street South, Christchurch Central, Christchurch, 8011",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8011",
+      "latitude": -43.5388269667,
+      "longitude": 172.6332807333,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "491d26a4-78fd-4c6e-85e9-5b67fd97e2cc",
+      "name": "New World Eastridge",
+      "address": "209 Kepa Road, Mission Bay, Auckland, 1071",
+      "suburb": "Mission Bay",
+      "region": "Auckland",
+      "postcode": "1071",
+      "latitude": -36.861179,
+      "longitude": 174.82901,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "a7c2a0cc-d39d-4b26-93ba-09adaa3a8bf6",
+      "name": "New World Elles Road",
+      "address": "244 Elles Road, Strathern, Invercargill, 9812",
+      "suburb": "Invercargill",
+      "region": "Southland",
+      "postcode": "9812",
+      "latitude": -46.4269544,
+      "longitude": 168.36167166667,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Invercargill",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "810832cb-2748-4e87-bc17-929eab5a5a61",
+      "name": "New World Feilding",
+      "address": "42 Aorangi Street, Feilding, 4702",
+      "suburb": "Feilding",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4702",
+      "latitude": -40.228015,
+      "longitude": 175.569532,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Feilding",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "81f807e9-1879-484c-b27e-ded56245c6a4",
+      "name": "New World Fendalton",
+      "address": "19-23 Memorial Avenue, Fendalton, Christchurch, 8053",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8053",
+      "latitude": -43.5179,
+      "longitude": 172.5883,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "fc91d59f-6ab5-4447-8737-125e09e8e50e",
+      "name": "New World Ferry Road",
+      "address": "7/11 St Johns Street, Woolston, Christchurch, 8062",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8062",
+      "latitude": -43.5492,
+      "longitude": 172.6842,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "ebcc2edb-73bd-4d8e-b6f3-528849677b62",
+      "name": "New World Foxton",
+      "address": "Cnr Main and Whyte Streets, FOXTON, 4814",
+      "suburb": "FOXTON",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4814",
+      "latitude": -40.472517,
+      "longitude": 175.281707,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "FOXTON",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "4f76214d-40a5-4c71-a94f-81d45f3f0a59",
+      "name": "New World Gardens",
+      "address": "6 North Road, North East Valley, Dunedin, 9010",
+      "suburb": "Dunedin",
+      "region": "Otago",
+      "postcode": "9010",
+      "latitude": -45.8549,
+      "longitude": 170.5197,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Dunedin",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "3e66e1a7-bf5c-4f39-9638-c3f57e5c3889",
+      "name": "New World Gate Pa",
+      "address": "948 Cameron Road, Gate Pa, Tauranga, 3112",
+      "suburb": "Gate Pa",
+      "region": "Bay of Plenty",
+      "postcode": "3112",
+      "latitude": -37.713787,
+      "longitude": 176.142697,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Tauranga",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "64c24e04-516d-40b3-958c-96b15797684a",
+      "name": "New World Glenview",
+      "address": "Unit 1/220 Ohaupo Road, Glenview, Hamilton, 3206",
+      "suburb": "Glenview",
+      "region": "Waikato",
+      "postcode": "3206",
+      "latitude": -37.822527,
+      "longitude": 175.287416,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Hamilton",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "ca27a97f-03d4-4969-9400-e3af61c99816",
+      "name": "New World Gore",
+      "address": "2 Irk Street, Gore, Gore, 9710",
+      "suburb": "Gore",
+      "region": "Southland",
+      "postcode": "9710",
+      "latitude": -46.0993,
+      "longitude": 168.9427,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Gore",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b6d36090-c7f4-4ff3-9343-5b48159f8f6d",
+      "name": "New World Green Bay",
+      "address": "64 Godley Road, Green Bay, Auckland, 0604",
+      "suburb": "Green Bay",
+      "region": "Auckland",
+      "postcode": "0604",
+      "latitude": -36.93074,
+      "longitude": 174.679184,
+      "extra": {
+        "clickAndCollect": false,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "0870db3b-2e91-43b7-89aa-ce3c031b3856",
+      "name": "New World Greenmeadows",
+      "address": "9 Gloucester Street, Greenmeadows, Napier, 4112",
+      "suburb": "Greenmeadows",
+      "region": "Hawkes Bay",
+      "postcode": "4112",
+      "latitude": -39.525324,
+      "longitude": 176.862409,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Napier",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "afbe3446-1f57-4dca-9a58-0c7d5a4a6020",
+      "name": "New World Greymouth",
+      "address": "Cnr High & Marlborough Streets, Greymouth, Greymouth, 7805",
+      "suburb": "Greymouth",
+      "region": "West Coast",
+      "postcode": "7805",
+      "latitude": -42.4617,
+      "longitude": 171.1961,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Greymouth",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "95d161ea-9a31-4fca-acbe-96f271d627df",
+      "name": "New World Halswell",
+      "address": "346 Halswell Road, Halswell, Christchurch, 8025",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8025",
+      "latitude": -43.5806,
+      "longitude": 172.566,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "be37802e-1355-466e-9a1b-1ede5a099705",
+      "name": "New World Hastings",
+      "address": "400 Heretaunga Street East, Hastings, 4122",
+      "suburb": "Hastings",
+      "region": "Hawkes Bay",
+      "postcode": "4122",
+      "latitude": -39.644715,
+      "longitude": 176.847154,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Hastings",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "d999418f-c2ca-4748-b56b-15ee82c6e85e",
+      "name": "New World Havelock North",
+      "address": "34 Havelock Road, Havelock North, 4130",
+      "suburb": "Havelock North",
+      "region": "Hawkes Bay",
+      "postcode": "4130",
+      "latitude": -39.668128,
+      "longitude": 176.875873,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Havelock North",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "177c82e0-7343-434c-8b98-9c20e72561c2",
+      "name": "New World Hillcrest",
+      "address": "280 Cambridge Road, Hillcrest, Hamilton, 3216",
+      "suburb": "Hillcrest",
+      "region": "Waikato",
+      "postcode": "3216",
+      "latitude": -37.801952,
+      "longitude": 175.322549,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Hamilton",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "403b1c6f-121c-4945-8aa8-fa53a7e59133",
+      "name": "New World Hobsonville",
+      "address": "120 Hobsonville Road, Hobsonville, Auckland, 0618",
+      "suburb": "Hobsonville",
+      "region": "Auckland",
+      "postcode": "0618",
+      "latitude": -36.79915,
+      "longitude": 174.64505,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "2de22d8e-54d4-4575-be10-0d783324ec75",
+      "name": "New World Hokitika",
+      "address": "116 Revell Street, Hokitika, Hokitika, 7810",
+      "suburb": "Hokitika",
+      "region": "West Coast",
+      "postcode": "7810",
+      "latitude": -42.7161,
+      "longitude": 170.9638,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Hokitika",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "cb3f240a-a157-490c-9e80-f537d202ef49",
+      "name": "New World Howick",
+      "address": "77 Union Road, Howick, Auckland, 2014",
+      "suburb": "Howick",
+      "region": "Auckland",
+      "postcode": "2014",
+      "latitude": -36.903857,
+      "longitude": 174.925067,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "745d0bda-4b4f-4e4c-ab1f-6d77512f92f4",
+      "name": "New World Hutt City",
+      "address": "Bloomfield Terrace, Lower Hutt, 5010",
+      "suburb": "Lower Hutt",
+      "region": "Wellington",
+      "postcode": "5010",
+      "latitude": -41.209025,
+      "longitude": 174.90804,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Lower Hutt",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c6abac35-b75f-4a02-9b43-7ad5a7c7aa37",
+      "name": "New World Ilam",
+      "address": "47C/57C Peer Street, Upper Riccarton, Christchurch, 8041",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8041",
+      "latitude": -43.5260484333,
+      "longitude": 172.5699320333,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "ad3ea12c-d9c1-4640-908c-feb9d3c79c11",
+      "name": "New World Inglewood",
+      "address": "46 Matai Street, Inglewood, 4330",
+      "suburb": "Inglewood",
+      "region": "Taranaki",
+      "postcode": "4330",
+      "latitude": -39.158214,
+      "longitude": 174.20708,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Inglewood",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "d4408e0f-5268-42c2-ba76-2bc9732d4316",
+      "name": "New World Island Bay",
+      "address": "6 Medway Street, Island Bay, Wellington, 6023",
+      "suburb": "Island Bay",
+      "region": "Wellington",
+      "postcode": "6023",
+      "latitude": -41.334534,
+      "longitude": 174.772497,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "e197b67e-2cf9-4bae-bae5-5b8ffdccfa87",
+      "name": "New World Kaiapoi",
+      "address": "52 Charles Street, Kaiapoi, Kaiapoi, 7630",
+      "suburb": "Kaiapoi",
+      "region": "Canterbury",
+      "postcode": "7630",
+      "latitude": -43.3823,
+      "longitude": 172.6596,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Kaiapoi",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "6b9af900-3f25-4fdb-8418-b43a596aee48",
+      "name": "New World Kaikohe",
+      "address": "14 Marino Place, Kaikohe, 0405",
+      "suburb": "Kaikohe",
+      "region": "Northland",
+      "postcode": "0405",
+      "latitude": -35.408951,
+      "longitude": 173.801012,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Kaikohe",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "8e5b742c-0957-4b97-b9e2-290d75c02046",
+      "name": "New World Kaikoura",
+      "address": "124 Beach Road, Kaikoura, Kaikoura, 7300",
+      "suburb": "Kaikoura",
+      "region": "Marlborough",
+      "postcode": "7300",
+      "latitude": -42.3877,
+      "longitude": 173.6804,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Kaikoura",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "f54433e6-5c6c-41b9-a5e2-d7502f454da8",
+      "name": "New World Kapiti",
+      "address": "159 Kapiti Road, Paraparaumu, 5032",
+      "suburb": "Paraparaumu",
+      "region": "Wellington",
+      "postcode": "5032",
+      "latitude": -40.905625,
+      "longitude": 174.994131,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Paraparaumu",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "7daec5c2-789a-4577-ba1f-39e730acdd27",
+      "name": "New World Karori",
+      "address": "236 Karori Road, Karori, Wellington, 6012",
+      "suburb": "Karori",
+      "region": "Wellington",
+      "postcode": "6012",
+      "latitude": -41.284257,
+      "longitude": 174.738052,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "f145f120-ba19-4524-9fc5-e8caf516e209",
+      "name": "New World Kawerau",
+      "address": "Tarawera Court, Kawerau, 3127",
+      "suburb": "Kawerau",
+      "region": "Bay of Plenty",
+      "postcode": "3127",
+      "latitude": -38.085853,
+      "longitude": 176.700944,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Kawerau",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "d48eba45-0c1c-4f5d-b836-0ed54b45c99c",
+      "name": "New World Kerikeri",
+      "address": "99 Kerikeri Road, Kerikeri, 0230",
+      "suburb": "Kerikeri",
+      "region": "Northland",
+      "postcode": "0230",
+      "latitude": -35.2267,
+      "longitude": 173.951368,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Kerikeri",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "420eff4b-5266-4667-8943-a21caf4b1b03",
+      "name": "New World Khandallah",
+      "address": "26 Ganges Road, Khandallah, Wellington, 6035",
+      "suburb": "Khandallah",
+      "region": "Wellington",
+      "postcode": "6035",
+      "latitude": -41.247527,
+      "longitude": 174.791469,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "686c8e35-aa87-40e9-b46e-8ffbad4713aa",
+      "name": "New World Kumeu",
+      "address": "108-110 Main Road, Kumeu, Auckland, 0810",
+      "suburb": "Kumeu",
+      "region": "Auckland",
+      "postcode": "0810",
+      "latitude": -36.774933,
+      "longitude": 174.553672,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c78b7034-7f10-480a-b502-2e5c4066a790",
+      "name": "New World Levin",
+      "address": "21 Bath Street, Levin, 5510",
+      "suburb": "Levin",
+      "region": "Manawatu-Wanganui",
+      "postcode": "5510",
+      "latitude": -40.623065,
+      "longitude": 175.282791,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Levin",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "bfe3a4ae-2f6d-46ed-ba60-28451a4807bf",
+      "name": "New World Lincoln",
+      "address": "77 Gerald Street, Lincoln, Lincoln, 7608",
+      "suburb": "Lincoln",
+      "region": "Canterbury",
+      "postcode": "7608",
+      "latitude": -43.642,
+      "longitude": 172.4739,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Lincoln",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "f0c21eab-1919-4cba-ac00-5b795947cdcb",
+      "name": "New World Long Bay",
+      "address": "55B Glenvar Ridge Road, Long Bay, Auckland, 0630",
+      "suburb": "Long Bay",
+      "region": "Auckland",
+      "postcode": "0630",
+      "latitude": -36.684964,
+      "longitude": 174.73973,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "6739e54f-ffab-47b9-9fe1-899d91a7ad78",
+      "name": "New World Mangawhai",
+      "address": "83 Molesworth Drive, Mangawhai, 0505",
+      "suburb": "Mangawhai",
+      "region": "Northland",
+      "postcode": "0505",
+      "latitude": -36.1124401,
+      "longitude": 174.572448,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Mangawhai",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "e2852742-1bb5-42a5-8635-4c4e7c7cb758",
+      "name": "New World Marton",
+      "address": "427 Wellington Road, Marton, 4710",
+      "suburb": "Marton",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4710",
+      "latitude": -40.07666,
+      "longitude": 175.379646,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Marton",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "1fa53d02-1ed5-4dd5-b0ac-fd280425c19a",
+      "name": "New World Masterton",
+      "address": "11 Bruce Street, Masterton, 5810",
+      "suburb": "Masterton",
+      "region": "Manawatu-Wanganui",
+      "postcode": "5810",
+      "latitude": -40.948688,
+      "longitude": 175.665517,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Masterton",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "524d7a29-550c-4d14-8f89-ec334a60cd6d",
+      "name": "New World Matamata",
+      "address": "45 Waharoa East Road, Matamata, 3400",
+      "suburb": "Matamata",
+      "region": "Waikato",
+      "postcode": "3400",
+      "latitude": -37.803437,
+      "longitude": 175.769835,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Matamata",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "04de234b-9f3e-4388-9662-7a4c8d7180c8",
+      "name": "New World Merrilands",
+      "address": "200 Mangorei Road, Merrilands, New Plymouth, 4312",
+      "suburb": "Merrilands",
+      "region": "Taranaki",
+      "postcode": "4312",
+      "latitude": -39.06659,
+      "longitude": 174.102988,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "New Plymouth",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "60928d93-06fa-4d8f-92a6-8c359e7e846d",
+      "name": "New World Metro Queen St",
+      "address": "125 Queen Street, Auckland Central, Auckland, 1010",
+      "suburb": "Auckland Central",
+      "region": "Auckland",
+      "postcode": "1010",
+      "latitude": -36.846405,
+      "longitude": 174.765935,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "1898a189-acf3-4320-8704-7a9cc6b3924d",
+      "name": "New World Metro Shore City",
+      "address": "52-56 Anzac Street, Takapuna, Auckland, 0622",
+      "suburb": "Takapuna",
+      "region": "Auckland",
+      "postcode": "0622",
+      "latitude": -36.78756,
+      "longitude": 174.77005,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "38b074c4-0e5a-4bd5-b743-d30f28d94982",
+      "name": "New World Metro Willis St",
+      "address": "68- 70 Willis Street, Wellington Central, Wellington, 6011",
+      "suburb": "Wellington Central",
+      "region": "Wellington",
+      "postcode": "6011",
+      "latitude": -41.287948,
+      "longitude": 174.775268,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "4ff026b8-a60d-4383-8f0c-6c85f5623afa",
+      "name": "New World Milford",
+      "address": "141 Kitchener Road, Milford, Auckland, 0620",
+      "suburb": "Milford",
+      "region": "Auckland",
+      "postcode": "0620",
+      "latitude": -36.772298,
+      "longitude": 174.764805,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "5255b27a-b224-4f58-a424-144e81ecf244",
+      "name": "New World Miramar",
+      "address": "48 Miramar Avenue, Miramar, WELLINGTON, 6022",
+      "suburb": "Miramar",
+      "region": "Wellington",
+      "postcode": "6022",
+      "latitude": -41.315835,
+      "longitude": 174.814635,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "WELLINGTON",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "01076456-6c8a-42c3-a647-2e70a94c4e6c",
+      "name": "New World Morrinsville",
+      "address": "89 Thames Street, Morrinsville, 3300",
+      "suburb": "Morrinsville",
+      "region": "Waikato",
+      "postcode": "3300",
+      "latitude": -37.659507,
+      "longitude": 175.522299,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Morrinsville",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b007db90-0a16-47d8-9a89-407be8496d9a",
+      "name": "New World Mosgiel",
+      "address": "10 Hartstonge Avenue, Mosgiel, Mosgiel, 9024",
+      "suburb": "Mosgiel",
+      "region": "Otago",
+      "postcode": "9024",
+      "latitude": -45.8725,
+      "longitude": 170.3493,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Mosgiel",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b7fe0c9e-24e9-46f2-a59a-95dce1725b06",
+      "name": "New World Motueka",
+      "address": "271 High Street, Motueka, Motueka, 7120",
+      "suburb": "Motueka",
+      "region": "Tasman",
+      "postcode": "7120",
+      "latitude": -41.1146,
+      "longitude": 173.0124,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Motueka",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "de5595ab-1d28-46c6-9e9a-b1c3db1af827",
+      "name": "New World Mount Maunganui",
+      "address": "Cnr Tweed St & Maunganui Rd, Mount Maunganui, 3116",
+      "suburb": "Mount Maunganui",
+      "region": "Bay of Plenty",
+      "postcode": "3116",
+      "latitude": -37.653862,
+      "longitude": 176.198938,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Mount Maunganui",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "dae2d4e3-9b97-41f4-a969-4eded0bd3554",
+      "name": "New World Mt Albert",
+      "address": "1 Alberton Avenue, Mt Albert, Auckland, 1025",
+      "suburb": "Mt Albert",
+      "region": "Auckland",
+      "postcode": "1025",
+      "latitude": -36.880146,
+      "longitude": 174.72622,
+      "extra": {
+        "clickAndCollect": false,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+      "name": "New World Mt Roskill",
+      "address": "53 May Road, Mt Roskill, Auckland, 1041",
+      "suburb": "Mt Roskill",
+      "region": "Auckland",
+      "postcode": "1041",
+      "latitude": -36.908622,
+      "longitude": 174.734362,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "91b26327-b240-4778-a3d8-190dfc8c16f3",
+      "name": "New World Nelson City",
+      "address": "Cnr Vanguard and Gloucester Street, Nelson South, Nelson, 7010",
+      "suburb": "Nelson",
+      "region": "Nelson",
+      "postcode": "7010",
+      "latitude": -41.2757,
+      "longitude": 173.2781,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Nelson",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c8998066-d39b-401c-aa6b-d6d18f8d122f",
+      "name": "New World New Lynn",
+      "address": "2-6 Crown Lynn Place, New Lynn, Auckland, 0600",
+      "suburb": "New Lynn",
+      "region": "Auckland",
+      "postcode": "0600",
+      "latitude": -36.910865,
+      "longitude": 174.685569,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "55d4fe03-e82e-44a8-8324-57f3afcf16ba",
+      "name": "New World New Plymouth",
+      "address": "78 Courtenay Street, New Plymouth, 4310",
+      "suburb": "New Plymouth",
+      "region": "Taranaki",
+      "postcode": "4310",
+      "latitude": -39.05782,
+      "longitude": 174.07774,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "New Plymouth",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "1ee51b21-c2c8-42c4-b01e-8ef081738e23",
+      "name": "New World Newlands",
+      "address": "Cnr Bracken and Newlands Road, Newlands, Wellington, 6037",
+      "suburb": "Newlands",
+      "region": "Wellington",
+      "postcode": "6037",
+      "latitude": -41.223472,
+      "longitude": 174.823202,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "51ee2a79-4693-410c-9287-66940847736d",
+      "name": "New World Newmarket",
+      "address": "42 Nuffield Street, Newmarket, Auckland, 1023",
+      "suburb": "Newmarket",
+      "region": "Auckland",
+      "postcode": "1023",
+      "latitude": -36.872037,
+      "longitude": 174.777922,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "ff680fec-3a34-4666-99ed-ab1a9d1c6ba0",
+      "name": "New World Newtown",
+      "address": "195 Riddiford Street, Wellington, 6021",
+      "suburb": "Wellington",
+      "region": "Wellington",
+      "postcode": "6021",
+      "latitude": -41.314466,
+      "longitude": 174.780574,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b42476bd-bded-4c80-827e-e1d587096f54",
+      "name": "New World Ngaruawahia",
+      "address": "7 Galileo Street, Ngaruawahia, 3720",
+      "suburb": "Ngaruawahia",
+      "region": "Waikato",
+      "postcode": "3720",
+      "latitude": -37.667256,
+      "longitude": 175.150107,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Ngaruawahia",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "0637c08c-ac36-4940-8582-38e44a4812fa",
+      "name": "New World Northwood",
+      "address": "2 Mounter Avenue, Northwood, Christchurch, 8051",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8051",
+      "latitude": -43.4596,
+      "longitude": 172.6225,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "421d563e-ce40-4d5c-a79c-4afb521fc5b0",
+      "name": "New World Oamaru",
+      "address": "72 Wansbeck Street, Oamaru, Oamaru, 9400",
+      "suburb": "Oamaru",
+      "region": "Otago",
+      "postcode": "9400",
+      "latitude": -45.102,
+      "longitude": 170.9548,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Oamaru",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "11b389ec-b197-4476-9b7f-2eaeffa2c1c9",
+      "name": "New World Ohakune",
+      "address": "12 Goldfinch Street, Ohakune, 4625",
+      "suburb": "Ohakune",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4625",
+      "latitude": -39.41772,
+      "longitude": 175.39904,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Ohakune",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "997b5318-0d47-4eac-b4ec-bbbd9feb8ae3",
+      "name": "New World Onekawa",
+      "address": "34 Maadi Road, Onekawa, Napier, 4110",
+      "suburb": "Onekawa",
+      "region": "Hawkes Bay",
+      "postcode": "4110",
+      "latitude": -39.508662,
+      "longitude": 176.887458,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Napier",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "4664daab-1897-4e69-9117-067b4afd41bb",
+      "name": "New World Onerahi",
+      "address": "128 Onerahi Road, Whangarei, 0110",
+      "suburb": "Whangarei",
+      "region": "Northland",
+      "postcode": "0110",
+      "latitude": -35.755737,
+      "longitude": 174.367937,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Whangarei",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "e42fdd7c-6a4e-48d5-964c-5654fd36992b",
+      "name": "New World Opotiki",
+      "address": "19 Bridge Street, Opotiki, 3122",
+      "suburb": "Opotiki",
+      "region": "Bay of Plenty",
+      "postcode": "3122",
+      "latitude": -38.011812,
+      "longitude": 177.275962,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Opotiki",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "0f82d3fe-acd0-4e98-b3e7-fbabbf8b8ef5",
+      "name": "New World Orewa",
+      "address": "11 Moana Avenue, Orewa, 0931",
+      "suburb": "Orewa",
+      "region": "Auckland",
+      "postcode": "0931",
+      "latitude": -36.586612,
+      "longitude": 174.69366,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Orewa",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "bc0ebd13-e131-4efd-a226-415c40ce8c4e",
+      "name": "New World Ormiston",
+      "address": "240 Ormiston Road, Ormiston, Auckland, 2019",
+      "suburb": "Ormiston",
+      "region": "Auckland",
+      "postcode": "2019",
+      "latitude": -36.9647262,
+      "longitude": 174.912703,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "5dde0d09-05ca-4b78-ab83-00e47233cf55",
+      "name": "New World Otaki",
+      "address": "155-163 Main Highway, Otaki, 5512",
+      "suburb": "Otaki",
+      "region": "Wellington",
+      "postcode": "5512",
+      "latitude": -40.763486,
+      "longitude": 175.153556,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Otaki",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b01a01ac-d6ef-45ef-b9fe-d66036d55b56",
+      "name": "New World Pahiatua",
+      "address": "101 Main Street, Pahiatua, 4910",
+      "suburb": "Pahiatua",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4910",
+      "latitude": -40.452412,
+      "longitude": 175.841836,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Pahiatua",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "ef977d89-f3d8-4e8b-8a48-b895ded38646",
+      "name": "New World Papakura",
+      "address": "29-31 East Street, Auckland, 2110",
+      "suburb": "Auckland",
+      "region": "Auckland",
+      "postcode": "2110",
+      "latitude": -37.064268,
+      "longitude": 174.941101,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c570bb70-c783-4692-aee1-6a1b235f9476",
+      "name": "New World Papatoetoe",
+      "address": "65 St Georges Street, Papatoetoe, Auckland, 2025",
+      "suburb": "Papatoetoe",
+      "region": "Auckland",
+      "postcode": "2025",
+      "latitude": -36.9802,
+      "longitude": 174.853287,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "6defcd27-e944-45ad-982f-768ab3b4c2ac",
+      "name": "New World Paremata",
+      "address": "93-97 Mana Esplanade, Paremata, Porirua, 5026",
+      "suburb": "Paremata",
+      "region": "Wellington",
+      "postcode": "5026",
+      "latitude": -41.0944,
+      "longitude": 174.868615,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Porirua",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "59b56cc6-645c-4fa8-836b-c667662d7ec4",
+      "name": "New World Pioneer",
+      "address": "179-197 Main Street, Palmerston North, 4412",
+      "suburb": "Palmerston North",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4412",
+      "latitude": -40.359638,
+      "longitude": 175.600741,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Palmerston North",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "871ff39f-99b5-4030-b035-b2dab7225082",
+      "name": "New World Point Chevalier",
+      "address": "1132 Great North Road, Point Chevalier, Auckland, 1022",
+      "suburb": "Point Chevalier",
+      "region": "Auckland",
+      "postcode": "1022",
+      "latitude": -36.8699276,
+      "longitude": 174.7126578,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "1926eed9-3d44-4339-9f6e-23c96becab07",
+      "name": "New World Porirua",
+      "address": "2 Walton Leigh Avenue, Porirua City Centre, Porirua, 5022",
+      "suburb": "Porirua City Centre",
+      "region": "Wellington",
+      "postcode": "5022",
+      "latitude": -41.136386,
+      "longitude": 174.841919,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Porirua",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "5b8f8e3b-e1a0-4a11-b16b-9cfe782c124e",
+      "name": "New World Prestons",
+      "address": "420 Marshland Road, Marshland, Christchurch, 8083",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8083",
+      "latitude": -43.4749,
+      "longitude": 172.6621,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c032987b-0387-4fc0-bb44-ce7510e35335",
+      "name": "New World Pukekohe",
+      "address": "17 Paerata Road, Pukekohe, Auckland, 2120",
+      "suburb": "Pukekohe",
+      "region": "Auckland",
+      "postcode": "2120",
+      "latitude": -37.18988,
+      "longitude": 174.90306,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "6ea5a1cf-56b8-44eb-856c-fd916560e92e",
+      "name": "New World Queenstown",
+      "address": "1/12 Hawthorne Dr, Remarkables Park, Queenstown, 9300",
+      "suburb": "Queenstown",
+      "region": "Otago",
+      "postcode": "9300",
+      "latitude": -45.0258,
+      "longitude": 168.7419,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Queenstown",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "5080816d-825d-4a6e-9835-a93d986b1ee0",
+      "name": "New World Rangiora",
+      "address": "10 Good Street, Rangiora, Rangiora, 7400",
+      "suburb": "Rangiora",
+      "region": "Canterbury",
+      "postcode": "7400",
+      "latitude": -43.302554280866,
+      "longitude": 172.594487955856,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Rangiora",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "f7f6ce3e-c7f6-459a-8466-e29d868257d1",
+      "name": "New World Ravenswood",
+      "address": "10 Bob Robertson Drive, Woodend, 7691",
+      "suburb": "Woodend",
+      "region": "Canterbury",
+      "postcode": "7691",
+      "latitude": -43.308,
+      "longitude": 172.6713,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Woodend",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "1fc7bc09-1d0c-4a88-a9f4-5f1536d797dd",
+      "name": "New World Regent",
+      "address": "167 Bank Street, Regent, Whangarei, 0112",
+      "suburb": "Regent",
+      "region": "Northland",
+      "postcode": "0112",
+      "latitude": -35.716277,
+      "longitude": 174.321962,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Whangarei",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+      "name": "New World Remuera",
+      "address": "10 Clonbern Road, Remuera, Auckland, 1050",
+      "suburb": "Remuera",
+      "region": "Auckland",
+      "postcode": "1050",
+      "latitude": -36.88171,
+      "longitude": 174.79751,
+      "extra": {
+        "clickAndCollect": false,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "84c3115a-fe09-4bc3-b373-f43cc9e9627c",
+      "name": "New World Rolleston",
+      "address": "92 Rolleston Drive, Rolleston, Rolleston, 7614",
+      "suburb": "Rolleston",
+      "region": "Canterbury",
+      "postcode": "7614",
+      "latitude": -43.5968,
+      "longitude": 172.3825,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Rolleston",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "07828d6b-4c90-430e-8ea9-37c671d375e9",
+      "name": "New World Rototuna",
+      "address": "Cnr Thomas & Horsham Downs Rds, Hamilton, 3210",
+      "suburb": "Hamilton",
+      "region": "Waikato",
+      "postcode": "3210",
+      "latitude": -37.728271,
+      "longitude": 175.273985,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Hamilton",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "692b45a2-2ab9-49de-adc3-e4a0ddd661a5",
+      "name": "New World Silverstream",
+      "address": "28 Whitemans Road, Silverstream, Upper Hutt, 5019",
+      "suburb": "Silverstream",
+      "region": "Wellington",
+      "postcode": "5019",
+      "latitude": -41.148436,
+      "longitude": 175.012536,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Upper Hutt",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "adcd3dee-0ead-4b84-944a-809b95e0e36b",
+      "name": "New World Southmall",
+      "address": "187 Great South Road, Manurewa, Auckland, 2102",
+      "suburb": "Manurewa",
+      "region": "Auckland",
+      "postcode": "2102",
+      "latitude": -37.02246,
+      "longitude": 174.89719,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "bae1da58-ac6b-4ef2-816d-4932691218d1",
+      "name": "New World St Martins",
+      "address": "92 Wilsons Road, Saint Martins, Christchurch, 8023",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8023",
+      "latitude": -43.5578,
+      "longitude": 172.6548,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "a0d86b5f-fdf4-44d1-b7a2-f418bdb37f4e",
+      "name": "New World Stanmore (Christchurch)",
+      "address": "288 Stanmore Road, Richmond, Christchurch, 8013",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8013",
+      "latitude": -43.5203,
+      "longitude": 172.6568,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "e3a57a0b-156f-4994-a06a-921df65c20cc",
+      "name": "New World Stoke",
+      "address": "107 Neale Avenue, Stoke, Nelson, 7011",
+      "suburb": "Nelson",
+      "region": "Nelson",
+      "postcode": "7011",
+      "latitude": -41.3127,
+      "longitude": 173.2327,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Nelson",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b525d98f-8df5-415f-837e-abb793821e1e",
+      "name": "New World Stokes Valley",
+      "address": "14 Oates Street, Stokes Valley, Lower Hutt, 5019",
+      "suburb": "Stokes Valley",
+      "region": "Wellington",
+      "postcode": "5019",
+      "latitude": -41.174103,
+      "longitude": 174.980844,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Lower Hutt",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c3a42e9d-ac58-4abf-be43-17920c720540",
+      "name": "New World Stonefields",
+      "address": "100 Lunn Avenue, Mt Wellington, Auckland, 1072",
+      "suburb": "Mt Wellington",
+      "region": "Auckland",
+      "postcode": "1072",
+      "latitude": -36.890274,
+      "longitude": 174.831971,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "02874261-edfe-4daa-886c-09429e2d06d7",
+      "name": "New World Stratford",
+      "address": "124 Regan Street, Stratford, 4332",
+      "suburb": "Stratford",
+      "region": "Taranaki",
+      "postcode": "4332",
+      "latitude": -39.337111,
+      "longitude": 174.286329,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Stratford",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "65201d94-8805-4be8-b1ba-f547d6bf7ecd",
+      "name": "New World Taihape",
+      "address": "112 Hautapu Street, Taihape, 4720",
+      "suburb": "Taihape",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4720",
+      "latitude": -39.67708,
+      "longitude": 175.798534,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Taihape",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "517424bd-8840-49e7-8206-58f4da24b1d7",
+      "name": "New World Taumarunui",
+      "address": "10 Hakiaha Street, Taumarunui, 3920",
+      "suburb": "Taumarunui",
+      "region": "Waikato",
+      "postcode": "3920",
+      "latitude": -38.8829294,
+      "longitude": 175.2579086,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Taumarunui",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "bbe5aa58-69dd-4b29-abe6-58670234b3b7",
+      "name": "New World Tawa",
+      "address": "37 Oxford Street, Tawa, Wellington, 5028",
+      "suburb": "Tawa",
+      "region": "Wellington",
+      "postcode": "5028",
+      "latitude": -41.169962,
+      "longitude": 174.82611,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "2d939bb7-ae26-4cc7-b930-d10e6a4de8a3",
+      "name": "New World Te Atatu",
+      "address": "575 Te Atatū Road, Te Atatū Peninsula, Auckland, 0610",
+      "suburb": "Te Atatū Peninsula",
+      "region": "Auckland",
+      "postcode": "0610",
+      "latitude": -36.842741,
+      "longitude": 174.6518703,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Auckland",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "5eb8d7a2-c5e4-4046-a17e-be2806626fd7",
+      "name": "New World Te Kauwhata",
+      "address": "6-8 Main Road, Te Kauwhata, 3710",
+      "suburb": "Te Kauwhata",
+      "region": "Waikato",
+      "postcode": "3710",
+      "latitude": -37.404219,
+      "longitude": 175.143247,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Te Kauwhata",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "514b1db1-fe88-4e79-a6dd-f1e0d4d4c01f",
+      "name": "New World Te Kuiti",
+      "address": "39-51 Rora Street, Te Kuiti, 3910",
+      "suburb": "Te Kuiti",
+      "region": "Waikato",
+      "postcode": "3910",
+      "latitude": -38.331839,
+      "longitude": 175.16319,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Te Kuiti",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "f95243ac-bfc9-483a-b10a-b681f4fc4ba2",
+      "name": "New World Te Puke",
+      "address": "12 Jocelyn Street, Te Puke, 3119",
+      "suburb": "Te Puke",
+      "region": "Bay of Plenty",
+      "postcode": "3119",
+      "latitude": -37.783124,
+      "longitude": 176.328028,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Te Puke",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "36fb31df-6b41-4a10-ac9a-db831f4f5f47",
+      "name": "New World Te Rapa",
+      "address": "751 Te Rapa Road, Te Rapa, Hamilton, 3200",
+      "suburb": "Te Rapa",
+      "region": "Waikato",
+      "postcode": "3200",
+      "latitude": -37.753024,
+      "longitude": 175.239998,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Hamilton",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "d83b5f5e-db6e-4696-823e-5940493ef41c",
+      "name": "New World Temuka",
+      "address": "185 King Street, Temuka, Temuka, 7920",
+      "suburb": "Temuka",
+      "region": "Canterbury",
+      "postcode": "7920",
+      "latitude": -44.2413,
+      "longitude": 171.2763,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Temuka",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c3f80f70-0ad3-409a-b60a-9eac6ad38681",
+      "name": "New World The Sands",
+      "address": "255 The Boulevard, Papamoa East, Tauranga, 3118",
+      "suburb": "Papamoa East",
+      "region": "Bay of Plenty",
+      "postcode": "3118",
+      "latitude": -37.7273,
+      "longitude": 176.3464,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Tauranga",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "3a5fd4b8-6ea0-4a6c-aeec-5af83e093322",
+      "name": "New World Thorndon",
+      "address": "150 Molesworth Street, Thorndon, Wellington, 6011",
+      "suburb": "Thorndon",
+      "region": "Wellington",
+      "postcode": "6011",
+      "latitude": -41.274006,
+      "longitude": 174.778067,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "ff528de5-233a-4cf6-a3a9-bc140565367e",
+      "name": "New World Three Parks",
+      "address": "83 Sir Tim Wallis Drive, Wanaka, Wanaka, 9305",
+      "suburb": "Wanaka",
+      "region": "Otago",
+      "postcode": "9305",
+      "latitude": -44.6993,
+      "longitude": 169.1553,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wanaka",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "12c83069-9220-466b-9145-6ac5706d841c",
+      "name": "New World Timaru",
+      "address": "145 Wai-Iti Road, Highfield, Timaru, 7910",
+      "suburb": "Timaru",
+      "region": "Canterbury",
+      "postcode": "7910",
+      "latitude": -44.389894977891,
+      "longitude": 171.22618470502,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Timaru",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c15270b3-4ced-4b8e-be01-16b9fc31c4c7",
+      "name": "New World Tokoroa",
+      "address": "84 Bridge Street, Tokoroa, 3420",
+      "suburb": "Tokoroa",
+      "region": "Waikato",
+      "postcode": "3420",
+      "latitude": -38.218917,
+      "longitude": 175.867537,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Tokoroa",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "79b03f4b-5e2b-437c-83f8-54d9dace4999",
+      "name": "New World Turangi",
+      "address": "19 Ohuanga Street, Turangi, 3334",
+      "suburb": "Turangi",
+      "region": "Waikato",
+      "postcode": "3334",
+      "latitude": -38.991014,
+      "longitude": 175.809118,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Turangi",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "2fe74bf7-5123-4faa-8fcb-97db954a714d",
+      "name": "New World Waihi",
+      "address": "35 Kenny Street, Waihi, 3610",
+      "suburb": "Waihi",
+      "region": "Bay of Plenty",
+      "postcode": "3610",
+      "latitude": -37.393116,
+      "longitude": 175.839644,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Waihi",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "55231137-b7be-48f2-b8a0-6aaed59f4540",
+      "name": "New World Waikanae",
+      "address": "5 Parata Street, Waikanae, 5036",
+      "suburb": "Waikanae",
+      "region": "Wellington",
+      "postcode": "5036",
+      "latitude": -40.874943,
+      "longitude": 175.066744,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Waikanae",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "04ba529d-3dee-4f86-adb6-62b0111114d7",
+      "name": "New World Waimate",
+      "address": "95 Queen Street, Waimate, Waimate, 7924",
+      "suburb": "Waimate",
+      "region": "Canterbury",
+      "postcode": "7924",
+      "latitude": -44.7337,
+      "longitude": 171.0472,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Waimate",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b2f012df-3c55-4bca-98ba-e30c3cd3aa70",
+      "name": "New World Waipukurau",
+      "address": "27 Russell Street, Waipukurau, 4200",
+      "suburb": "Waipukurau",
+      "region": "Hawkes Bay",
+      "postcode": "4200",
+      "latitude": -39.99467,
+      "longitude": 176.55584,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Waipukurau",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "83f2d5fc-132b-4603-aaaf-323e4a426fa0",
+      "name": "New World Wairoa",
+      "address": "51 Queen Street, Wairoa, 4108",
+      "suburb": "Wairoa",
+      "region": "Hawkes Bay",
+      "postcode": "4108",
+      "latitude": -39.033806,
+      "longitude": 177.418651,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wairoa",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "10de9574-cf98-4bc8-973d-3d3e36cb0c4d",
+      "name": "New World Waitaki",
+      "address": "402 Thames Highway, Oamaru North, Oamaru, 9400",
+      "suburb": "Oamaru",
+      "region": "Otago",
+      "postcode": "9400",
+      "latitude": -45.0766,
+      "longitude": 170.9849,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": false,
+        "onlineActive": true,
+        "city": "Oamaru",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "99798e55-18bb-4f16-9f3e-425c555111a7",
+      "name": "New World Waitara",
+      "address": "42 Queen Street, Waitara, 4320",
+      "suburb": "Waitara",
+      "region": "Taranaki",
+      "postcode": "4320",
+      "latitude": -39.000167,
+      "longitude": 174.236804,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Waitara",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "0d045690-bd75-42d8-a7bc-ee44aa57fc61",
+      "name": "New World Waiuku",
+      "address": "25-49 Bowen Street, Waiuku, 2123",
+      "suburb": "Waiuku",
+      "region": "Auckland",
+      "postcode": "2123",
+      "latitude": -37.249975,
+      "longitude": 174.727925,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Waiuku",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "341f876f-9a83-4882-aa79-5e5c9dc8fb2e",
+      "name": "New World Wanaka",
+      "address": "20 Dunmore Street, Wānaka, Wānaka, 9305",
+      "suburb": "Wānaka",
+      "region": "Otago",
+      "postcode": "9305",
+      "latitude": -44.6963,
+      "longitude": 169.135,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wānaka",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "b012c209-9dfe-48c2-940c-acf73afebed4",
+      "name": "New World Warkworth",
+      "address": "6 Percy Street, Warkworth, 0910",
+      "suburb": "Warkworth",
+      "region": "Auckland",
+      "postcode": "0910",
+      "latitude": -36.398709,
+      "longitude": 174.666795,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Warkworth",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "89ba1656-0ad7-4af0-8694-08bf335e99b9",
+      "name": "New World Wellington City",
+      "address": "279 Wakefield Street, Wellington, 6011",
+      "suburb": "Wellington",
+      "region": "Wellington",
+      "postcode": "6011",
+      "latitude": -41.292409,
+      "longitude": 174.784342,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Wellington",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "a799b706-07b8-4825-9524-95b03c9e0b14",
+      "name": "New World Westend",
+      "address": "247 Old Taupo Road, Hillcrest, Rotorua, 3015",
+      "suburb": "Hillcrest",
+      "region": "Bay of Plenty",
+      "postcode": "3015",
+      "latitude": -38.146066,
+      "longitude": 176.237248,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Rotorua",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "401accb9-6430-45a1-888d-29337ab34f12",
+      "name": "New World Westport",
+      "address": "244 Palmerston St, Nelson, Westport, 7825",
+      "suburb": "Westport",
+      "region": "West Coast",
+      "postcode": "7825",
+      "latitude": -41.7575,
+      "longitude": 171.5989,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Westport",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "96c43bec-8c0d-4752-b417-266546fddda1",
+      "name": "New World Whakatane",
+      "address": "51 Kakahoroa Drive, Whakatane, 3120",
+      "suburb": "Whakatane",
+      "region": "Bay of Plenty",
+      "postcode": "3120",
+      "latitude": -37.950929,
+      "longitude": 176.993759,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Whakatane",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "c4d78c33-1f9c-4039-8cd5-82ddb43fbe16",
+      "name": "New World Whangamata",
+      "address": "308 Aickin Road, Whangamata, 3620",
+      "suburb": "Whangamata",
+      "region": "Waikato",
+      "postcode": "3620",
+      "latitude": -37.201793,
+      "longitude": 175.867411,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Whangamata",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "24be83cd-b9f2-47f0-8895-82867e3d4f08",
+      "name": "New World Whanganui",
+      "address": "374 Victoria Avenue, Whanganui, 4500",
+      "suburb": "Whanganui",
+      "region": "Manawatu-Wanganui",
+      "postcode": "4500",
+      "latitude": -39.926194,
+      "longitude": 175.041161,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Whanganui",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "7508cf88-9fd0-4e71-b2f2-d564b1decf8d",
+      "name": "New World Whangaparaoa",
+      "address": "580 Whangaparaoa Road, Stanmore Bay, Whangaparaoa, 0932",
+      "suburb": "Stanmore Bay",
+      "region": "Auckland",
+      "postcode": "0932",
+      "latitude": -36.628789,
+      "longitude": 174.732596,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Whangaparaoa",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "f5da324f-f415-4c8d-a360-ea8d2c74d49b",
+      "name": "New World Whitby",
+      "address": "Discovery Drive, Whitby Village Centre, Porirua, 5024",
+      "suburb": "Whitby Village Centre",
+      "region": "Wellington",
+      "postcode": "5024",
+      "latitude": -41.117024,
+      "longitude": 174.893023,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Porirua",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "412c5dcf-142c-4133-b766-7bd21c30ae01",
+      "name": "New World Whitianga",
+      "address": "1 Joan Gaskell Drive, Whitianga, 3510",
+      "suburb": "Whitianga",
+      "region": "Waikato",
+      "postcode": "3510",
+      "latitude": -36.834308,
+      "longitude": 175.699435,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Whitianga",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "3ee7214b-6df4-4fdb-9dd6-3b2fc252ba6b",
+      "name": "New World Wigram",
+      "address": "51 Skyhawk Road, Wigram, Christchurch, 8042",
+      "suburb": "Christchurch",
+      "region": "Canterbury",
+      "postcode": "8042",
+      "latitude": -43.5532267333,
+      "longitude": 172.5580681167,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Christchurch",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "d0914aa0-ab30-4354-a223-6ba9ef6069c1",
+      "name": "New World Windsor",
+      "address": "51 Windsor Street, Windsor, Invercargill, 9810",
+      "suburb": "Invercargill",
+      "region": "Southland",
+      "postcode": "9810",
+      "latitude": -46.3954,
+      "longitude": 168.3661,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Invercargill",
+        "banner": "MNW"
+      }
+    },
+    {
+      "chain": "newworld",
+      "id": "5c3070dd-312f-4755-a92c-7607b2a694e4",
+      "name": "New World Winton",
+      "address": "293 Great North Road, Winton, Winton, 9720",
+      "suburb": "Winton",
+      "region": "Southland",
+      "postcode": "9720",
+      "latitude": -46.1417,
+      "longitude": 168.3256,
+      "extra": {
+        "clickAndCollect": true,
+        "delivery": true,
+        "onlineActive": true,
+        "city": "Winton",
+        "banner": "MNW"
+      }
+    }
+  ]
+}

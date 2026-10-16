@@ -1,0 +1,72 @@
+{
+  "stores": [
+    {
+      "id": "dbdfdd2a-55f7-4870-9b51-979286323647",
+      "name": "New World Browns Bay",
+      "address": "2 Inverness Road, Browns Bay, Auckland, 0630",
+      "latitude": -36.715961,
+      "longitude": 174.747287,
+      "clickAndCollect": true,
+      "delivery": true,
+      "onlineActive": true,
+      "physicalAddress": {
+        "streetName": "2 Inverness Road",
+        "cityName": "Auckland",
+        "regionName": "Auckland",
+        "postalCode": "0630",
+        "additionalCityName": "Browns Bay"
+      }
+    },
+    {
+      "id": "f0c21eab-1919-4cba-ac00-5b795947cdcb",
+      "name": "New World Long Bay",
+      "address": "55B Glenvar Ridge Road, Long Bay, Auckland, 0630",
+      "latitude": -36.684964,
+      "longitude": 174.73973,
+      "clickAndCollect": true,
+      "delivery": true,
+      "onlineActive": true,
+      "physicalAddress": {
+        "streetName": "55B Glenvar Ridge Road",
+        "cityName": "Auckland",
+        "regionName": "Auckland",
+        "postalCode": "0630",
+        "additionalCityName": "Long Bay"
+      }
+    },
+    {
+      "id": "773ad0a0-024e-46c5-a94b-df1cf86d25cc",
+      "name": "New World Albany",
+      "address": "219 Don McKinnon Drive, Albany, Auckland, 0632",
+      "latitude": -36.728207,
+      "longitude": 174.710519,
+      "clickAndCollect": true,
+      "delivery": true,
+      "onlineActive": true,
+      "physicalAddress": {
+        "streetName": "219 Don McKinnon Drive",
+        "cityName": "Auckland",
+        "regionName": "Auckland",
+        "postalCode": "0632",
+        "additionalCityName": "Albany"
+      }
+    },
+    {
+      "id": "edc986dd-a28c-4fbe-899d-5680d51f584d",
+      "name": "New World Brookfield",
+      "address": "89 Bellevue Road, Otumoetai, Tauranga, 3110",
+      "latitude": -37.688946,
+      "longitude": 176.1347,
+      "clickAndCollect": true,
+      "delivery": true,
+      "onlineActive": true,
+      "physicalAddress": {
+        "streetName": "89 Bellevue Road",
+        "cityName": "Tauranga",
+        "regionName": "Bay of Plenty",
+        "postalCode": "3110",
+        "additionalCityName": "Otumoetai"
+      }
+    }
+  ]
+}
