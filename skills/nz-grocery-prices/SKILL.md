@@ -15,7 +15,7 @@ Use the bundled CLI's direct guest HTTP API workflow. Read [CLI reference](refer
 Check `nz-grocery-prices --version`. If unavailable, read the repository README and install the CLI in the environment where commands will run:
 
 ```sh
-uv tool install "git+https://github.com/maxazure/nz-grocery-prices.git@v0.1.0"
+uv tool install "git+https://github.com/maxazure/nz-grocery-prices.git@v0.1.1"
 nz-grocery-prices --version
 ```
 

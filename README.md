@@ -63,12 +63,12 @@ Python **3.10+**。当前发布渠道是 GitHub；不要假定已有同名 PyPI 
 使用已有的 [uv](https://docs.astral.sh/uv/) 安装固定版本：
 
 ```sh
-uv tool install "git+https://github.com/maxazure/nz-grocery-prices.git@v0.1.0"
+uv tool install "git+https://github.com/maxazure/nz-grocery-prices.git@v0.1.1"
 nz-grocery-prices --version
 nz-grocery-prices stores --region canterbury --search Ilam
 ```
 
-也可用 `pipx install "git+https://github.com/maxazure/nz-grocery-prices.git@v0.1.0"`。上述 Git URL 安装方式需要 Git。没有 Git 时可下载 Release 的 wheel，使用 `pipx install /path/to/nz_grocery_prices-0.1.0-py3-none-any.whl`。
+也可用 `pipx install "git+https://github.com/maxazure/nz-grocery-prices.git@v0.1.1"`。上述 Git URL 安装方式需要 Git。没有 Git 时可下载 Release 的 wheel，使用 `pipx install /path/to/nz_grocery_prices-0.1.1-py3-none-any.whl`。
 
 只有 Python 时，在下载的源码目录建立虚拟环境：
 

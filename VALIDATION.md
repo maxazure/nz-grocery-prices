@@ -1,4 +1,4 @@
-# Release validation — 0.1.0
+# Release validation — 0.1.1
 
 Checked on 2026-10-17 (Pacific/Auckland), macOS arm64, Python 3.13.
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Remove unused legacy plugin manifests from the source distribution repository.
+
 ## 0.1.0
 
 - Independent `nz-grocery-prices` release for PAK’nSAVE and New World.
